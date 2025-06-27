@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact I love watching and playing cricket — it's my favorite way to unwind! 🏏
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <a href="mailto:b22ai010@iitj.ac.in">b22ai010@iitj.ac.in</a></h3>
 <p align="left">
 </p>
 
