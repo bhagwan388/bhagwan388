@@ -5,12 +5,11 @@
 
 
 ## Hi!  Nice to meet you 👋
-- 👨🏻‍💻 I am Vansh, a passionate Developer based in India
+- 👨🏻‍💻 I am Bhagwan, a passionate Developer based in India
 - 😄 Life revolves around: Design, Develop and Deployment
 - 🎓 Currently pursuing BTech in Artificial Intelligenece & Data Science from IIT Jodhpur, India 
-- ✨ Having immense love for exploring and creating tech domains
-- 💻 Full Stack Developer + Devops 
-- ♾️ Machine Learning Engineer / Data Engineer
+- 💻 Full Stack Developer 
+- ♾️ Machine Learning Engineer 
 
 - ⚡ Fun fact I love watching and playing cricket — it's my favorite way to unwind! 🏏
 
