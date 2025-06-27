@@ -1,5 +1,3 @@
-## 🖼️  Poster
-
 ![Project Poster](assets/poster.png)
 
 
