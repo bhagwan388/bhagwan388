@@ -1,17 +1,18 @@
-![Project Poster](assets/poster.png)
+<a href="https://github.com/bhagwan388"> 
+ <img align="center" src="./assets/poster.png" width="100%">    
+</a>
+<p align="center">
 
 
-- 🔭 I’m currently working on **AI-Based Plant Disease Detection**
+## Hi!  Nice to meet you 👋
+- 👨🏻‍💻 I am Vansh, a passionate Developer based in India
+- 😄 Life revolves around: Design, Develop and Deployment
+- 🎓 Currently pursuing BTech in Artificial Intelligenece & Data Science from IIT Jodhpur, India 
+- ✨ Having immense love for exploring and creating tech domains
+- 💻 Full Stack Developer + Devops 
+- ♾️ Machine Learning Engineer / Data Engineer
 
-- 🌱 I’m currently learning **Core Algorithms in DSA & ML, and applying them in real-world AI systems**
-
-- 👯 I’m looking to collaborate on **AI and ML projects that have a direct impact on society.**
-
-- 💬 Ask me about **Artificial Intelligence, Machine Learning, and Data Science.**
-
-- 📫 How to reach me **b22ai010@iitj.ac.in**
-
-- ⚡ Fun fact ****I love watching and playing cricket — it's my favorite way to unwind! 🏏****
+- ⚡ Fun fact I love watching and playing cricket — it's my favorite way to unwind! 🏏
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
