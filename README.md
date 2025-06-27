@@ -1,6 +1,7 @@
-## Hi there 👋
-<h1 align="center">Hi 👋, I'm Bhgawan</h1>
-<h3 align="center">AI & Data Science | IIT Jodhpur | Full Stack Developer</h3>
+## 🖼️  Poster
+
+![Project Poster](assets/poster.png)
+
 
 - 🔭 I’m currently working on **AI-Based Plant Disease Detection**
 
