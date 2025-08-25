@@ -1,5 +1,8 @@
-
-
+<a href="https://github.com/bhagwan388">
+  <img align="center" src="./assets/Poster.png" width="100%">
+</a>
+<p align="center">
+</p>
 
 ## Hi!  Nice to meet you 👋
 - 👨🏻‍💻 I am Bhagwan, a passionate Developer based in India
