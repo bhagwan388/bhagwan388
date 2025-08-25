@@ -1,7 +1,4 @@
-<a href="https://github.com/bhagwan388"> 
- <img align="center" src="./assets/Poster.png" width="100%">    
-</a>
-<p align="center">
+
 
 
 ## Hi!  Nice to meet you 👋
